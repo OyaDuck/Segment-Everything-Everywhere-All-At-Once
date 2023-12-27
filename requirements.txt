@@ -12,6 +12,7 @@ fvcore==0.1.5.post20221221
 transformers==4.34.0
 sentencepiece==0.1.99
 ftfy==6.1.1
+mpi4py==3.1.5
 regex==2023.10.3
 nltk==3.8.1
 vision-datasets==0.2.2
