@@ -29,6 +29,7 @@ dependencies = [
     "fvcore==0.1.5.post20221221",
     "transformers==4.34.0",
     "sentencepiece==0.1.99",
+    "mpi4py==3.1.5",
     "ftfy==6.1.1",
     "regex==2023.10.3",
     "nltk==3.8.1",
